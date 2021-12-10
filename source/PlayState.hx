@@ -183,6 +183,8 @@ class PlayState extends MusicBeatState
 				dialogue = CoolUtil.coolTextFile(Paths.txt('roses/rosesDialogue'));
 			case 'thorns':
 				dialogue = CoolUtil.coolTextFile(Paths.txt('thorns/thornsDialogue'));
+			case 'one-man':
+				dialogue = CoolUtil.coolTextFile(Paths.txt('one-man/martinDialogue'));
 		}
 
 		#if desktop
