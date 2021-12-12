@@ -30,7 +30,7 @@ class StoryMenuState extends MusicBeatState
 		['Satin-Panties', "High", "Milf"],
 		['Cocoa', 'Eggnog', 'Winter-Horrorland'],
 		['Senpai', 'Roses', 'Thorns'],
-		['The-Armed-Troop']
+		['One-Man']
 	];
 	var curDifficulty:Int = 1;
 
