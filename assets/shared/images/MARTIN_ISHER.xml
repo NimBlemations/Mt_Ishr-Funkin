@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MARTIN_ISHER.png"><SubTexture name="MARTIN_ISHER idle0000" x="0" y="0" width="465" height="632" frameX="0" frameY="0" frameWidth="465" frameHeight="632" />
+<SubTexture name="MARTIN_ISHER idle0001" x="465" y="0" width="450" height="641" frameX="0" frameY="0" frameWidth="450" frameHeight="641" />
+<SubTexture name="MARTIN_ISHER idle0002" x="0" y="641" width="432" height="644" frameX="0" frameY="0" frameWidth="432" frameHeight="644" />
+<SubTexture name="MARTIN_ISHER idle0003" x="432" y="641" width="417" height="645" frameX="0" frameY="0" frameWidth="417" frameHeight="645" />
+</TextureAtlas>
