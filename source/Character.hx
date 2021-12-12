@@ -227,6 +227,12 @@ class Character extends FlxSprite
 				addOffset("singLEFT", -30);
 				addOffset("singDOWN", -40, -94);
 				playAnim('idle');
+			case 'martin-isher':
+				tex = Paths.getSparrowAtlas('MARTIN_ISHER')
+				frames = tex;
+				animation.addByPrefix('idle', 'MARTIN_ISHER idle0');
+				
+				playAnim('idle');
 			case 'pico':
 				tex = Paths.getSparrowAtlas('Pico_FNF_assetss');
 				frames = tex;
